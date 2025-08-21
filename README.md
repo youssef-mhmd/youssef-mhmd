@@ -1,9 +1,3 @@
-<div align="center">
-
-<img src="https://github.com/SP-XD/SP-XD/blob/main/images/hellocoders_rounded.gif?raw=true" alt="Hello Coders" width="60%"/> <br>
-<img src="https://github.com/SP-XD/SP-XD/blob/main/images/dev-working_rounded.gif?raw=true" alt="Workspace" width="40%"/> <br> 
-
-</div>
 
 <hr>
 
@@ -24,14 +18,6 @@
 ![GNU/Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
 ![Git](https://img.shields.io/badge/GIT-E44C30?style=flat&logo=git&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-0078D4?style=flat&logo=visual-studio-code&logoColor=white)
-
----
-
-### 📊 GitHub Stats
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YoussefMohamed&show_icons=true&theme=tokyonight" width="45%">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YoussefMohamed&layout=compact&theme=tokyonight" width="45%">
-</div>
 
 ---
 
